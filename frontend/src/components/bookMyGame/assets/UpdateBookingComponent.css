@@ -1,0 +1,13 @@
+/* Additional styling for UpdateBookingComponent */
+.update-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+#date-picker {
+    margin-right: 20px;
+}
+
+#start-time-slider, #end-time-slider {
+    margin-top: 20px;
+}
